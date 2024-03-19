@@ -9,3 +9,7 @@ while True:
         print("--------------------")
         print("Tokio pasirinkimo nėra")
         continue
+
+# pauzė realizuota su input, input laukia Enter paspaudimo
+    print("\n-----------")
+    input("Tęsti - Enter")
